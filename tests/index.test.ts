@@ -1,4 +1,4 @@
-import { isEven, multiply, sum } from "./index";
+import { isEven, multiply, sum } from "../index";
 import { describe, test, expect } from "@jest/globals";
 
 // sum
